@@ -41,9 +41,8 @@ Suricate
 ## Certifications
 
 <div>
-    a
-    a
-    a
+    - Introduction to Cybersecurity by Cisco
+    - Cyber Threat Intelligence 101
 </div>
 
 ## Projects
