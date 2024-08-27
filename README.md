@@ -39,11 +39,9 @@ Suricate
 </div>
 
 ## Certifications
-
-<div>
-    - Introduction to Cybersecurity by Cisco
-    - Cyber Threat Intelligence 101
-</div>
+- Introduction to Cybersecurity by Cisco
+- Cyber Threat Intelligence 101 by ArcX
+  
 
 ## Projects
 - Detection Lab
