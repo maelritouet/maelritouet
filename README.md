@@ -16,6 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Endoint Detection and Response ( EDR )        |  <a href="https://github.com/maelritouet/EDR"> Aurora Agent</a>    |
 | Scripting and Automation for Threat Mitigation| SOC Automation Lab|
+| Web Development | <a href="https:/maelritouet.com"> Photography Website </a>    |
 
 ## Tools
 
@@ -49,7 +50,17 @@ My journey in computer science has led me to develop a passion for cybersecurity
  <div>
      Azure
 </div>
-   
+
+
+### Languages
+- Python
+- HTML
+- CSS
+- Javascript
+- PHP
+
+
+
 ## Certifications
 - Junior Security Analyst Career path by Cisco
 - Introduction to Cybersecurity by Cisco
