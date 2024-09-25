@@ -21,36 +21,18 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Tools
 
 ### Network
-<div>
-    Wireshark
-</div>
-<div>
-    Zeek
-</div>
-<div>
-   Suricate
-</div>
-
+- Wireshark
+- Zeek
+- Suricate
 
 ### Endpoint
-<div>
-    Aurora Agent
-</div>
+- Aurora Agent
 
 ### SIEM
-<div>
-    Microsoft_Sentinel  
-</div>
-<div>
-    Splunk
-</div>
-<div>
-     Elastic
-</div>
- <div>
-     Azure
-</div>
-
+- Microsoft_Sentinel
+- Splunk
+- Elastic
+- Azure
 
 ### Languages
 - Python
