@@ -14,15 +14,22 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Endoint Detection and Response ( EDR )        |   Aurora Agent    |
+| Endoint Detection and Response ( EDR )        |  <a href="https://github.com/maelritouet/EDR"> Aurora Agent</a>    |
 | Scripting and Automation for Threat Mitigation| SOC Automation Lab|
 
 ## Tools
 
 ### Network
-Wireshark
-Zeek
-Suricate
+<div>
+    Wireshark
+</div>
+<div>
+    Zeek
+</div>
+<div>
+   Suricate
+</div>
+
 
 ### Endpoint
 <div>
@@ -31,12 +38,20 @@ Suricate
 
 ### SIEM
 <div>
-    Microsoft_Sentinel
-    Splunk
-    Elastic
+    Microsoft_Sentinel  
 </div>
-
+<div>
+    Splunk
+</div>
+<div>
+     Elastic
+</div>
+ <div>
+     Azure
+</div>
+   
 ## Certifications
+- Junior Security Analyst Career path by Cisco
 - Introduction to Cybersecurity by Cisco
 - Cyber Threat Intelligence 101 by ArcX
   
