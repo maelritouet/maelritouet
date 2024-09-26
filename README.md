@@ -1,6 +1,6 @@
 # Hello, I'm Mael
 
-These past few years, I have studied a few fields in cybersecurity, passed some certifications and participated in CTF and other challenges of the field. I think I'm now ready to dive in the professional sphere, as you can see with the projects below
+These past few years, I have studied a few fields in cybersecurity, passed some certifications, created some projects and took. part in challenges and mini-games. I think I'm now ready to dive in the professional sphere, as you can see with the projects below
 
 ## Objective
 
