@@ -24,12 +24,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Wireshark
 - Zeek
 - Suricate
+- Burp suite
 
 ### Endpoint
 - Aurora Agent
 
 ### SIEM
-- Microsoft_Sentinel
 - Splunk
 - Elastic
 - Azure
@@ -40,6 +40,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - CSS
 - Javascript
 - PHP
+- Bash
 
 
 
