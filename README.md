@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/maelritouet/Detection-Lab">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Endoint Detection and Response ( EDR )        |  <a href="https://github.com/maelritouet/EDR"> Aurora Agent</a>    |
+| Endoint Detection and Response ( EDR )        |  <a href="https://github.com/maelritouet/EDR"> EDR t</a>    |
 | Scripting and Automation for Threat Mitigation| SOC Automation Lab|
 | Web Development | <a href="https://maelritouet.art"> Photography Website </a>    |
 
