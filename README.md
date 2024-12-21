@@ -28,7 +28,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Wazuh
 - Azure ( ongoing )
 
-### Languages
+### Tech Languages
 - Python
 - HTML
 - CSS
@@ -36,7 +36,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - PHP
 - Bash
 
-
+###  Languages
+- French - Native
+- English - C1 level ( TOEIC in process )
+- Romanian - B1/B1+
+- German - B1
+- Spanish ( learning )
 
 ## Certifications
 - Junior Security Analyst Career path by Cisco
