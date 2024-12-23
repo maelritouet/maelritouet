@@ -53,5 +53,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - Detection Lab
-- SOC Automation Project
-- Endpoint Detection & Response 
+- Endpoint Detection & Response
+- Personal Website
