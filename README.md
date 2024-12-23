@@ -45,6 +45,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 - Junior Security Analyst Career path by Cisco
+- Blue Team Junior Analyst by Security Blue Tean
 - Cyber Threat Management by Cisco
 - Introduction to Cybersecurity by Cisco
 - Cyber Threat Intelligence 101 by ArcX
