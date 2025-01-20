@@ -6,6 +6,21 @@ These past few years, I have studied a few fields in cybersecurity, passed some 
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
+## Certifications
+- Junior Security Analyst Career path by Cisco
+- Blue Team Junior Analyst by Security Blue Tean
+- Cyber Threat Management by Cisco
+- Introduction to Cybersecurity by Cisco
+- Cyber Threat Intelligence 101 by ArcX
+
+###  Languages
+- French - Native
+- English - C1 level ( TOEIC in process )
+- Romanian - B1/B1+
+- German - B1
+- Spanish ( learning )
+
+
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -35,21 +50,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Javascript
 - PHP
 - Bash
-
-###  Languages
-- French - Native
-- English - C1 level ( TOEIC in process )
-- Romanian - B1/B1+
-- German - B1
-- Spanish ( learning )
-
-## Certifications
-- Junior Security Analyst Career path by Cisco
-- Blue Team Junior Analyst by Security Blue Tean
-- Cyber Threat Management by Cisco
-- Introduction to Cybersecurity by Cisco
-- Cyber Threat Intelligence 101 by ArcX
-  
 
 ## Projects
 - Detection Lab
