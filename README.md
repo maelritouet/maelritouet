@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Introduction to Cybersecurity by Cisco
 - Cyber Threat Intelligence 101 by ArcX
 
-###  Languages
+##  Languages
 - French - Native
 - English - C1 level ( TOEIC in process )
 - Romanian - B1/B1+
