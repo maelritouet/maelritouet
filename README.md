@@ -44,6 +44,7 @@
 - CSS
 - Javascript
 - PHP
+- Bash
 ### Network
 - Wireshark
 ### Endpoint
