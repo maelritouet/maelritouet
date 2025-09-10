@@ -1,10 +1,15 @@
-# Hello, I'm Mael
+ # Hey, I’m Maël 👋  
 
-These past few years, I have studied a few fields in cybersecurity, passed some certifications, created some projects and took. part in challenges and mini-games. I think I'm now ready to dive in the professional sphere, as you can see with the projects below
+🎓 Currently a student at **ISEN Toulon** (integrated preparatory cycle, CIN) on the engineering path.  
+🔐 Interested in specializing as a **Cybersecurity Engineer** in the future.  
+💻 Passionate about technology, coding, and building projects that challenge me.  
 
-## Objective
+## About me
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+🎯 Aspiring engineer with a focus on **cybersecurity** and software development.  
+- 📚 Currently learning fundamentals in **maths, physics, and computer science** through my prepa.  
+- 🔍 Curious about system security, networks, and ethical hacking.  
+- 🌍 Based in **France**, open to collaborations and cool projects.  
 
 ## Certifications
 - Junior Security Analyst Career path by Cisco
@@ -30,28 +35,23 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Endoint Detection and Response ( EDR )        |  <a href="https://github.com/maelritouet/EDR"> EDR </a>    |
 | Web Development | <a href="https://maelritouet.art"> Photography Website </a>    |
 
-## Tools
 
-### Network
-- Wireshark
-
-### Endpoint
-- Aurora Agent
-
-### SIEM
-- Elastic
-- Wazuh
-- Azure ( ongoing )
-
-### Tech Languages
+# Tech Stack (so far!)
+### Tech Languages 
 - Python
 - HTML
 - CSS
 - Javascript
 - PHP
-- Bash
+### Network
+- Wireshark
+### Endpoint
+- Aurora Agent
+### SIEM
+- Elastic
+- Wazuh
+- Azure ( ongoing )
+### Miscs
+- UNIX
 
-## Projects
-- Detection Lab
-- Endpoint Detection & Response
-- Personal Website
+⚡ *Fun fact:* When I’m not learning, I practice my photography !
