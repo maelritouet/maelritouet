@@ -34,6 +34,7 @@
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/maelritouet/Detection-Lab">Detection Lab</a>|
 | Endoint Detection and Response ( EDR )        |  <a href="https://github.com/maelritouet/EDR"> EDR </a>    |
 | Web Development | <a href="https://maelritouet.art"> Photography Website </a>    |
+| Firewall Management |<a href="https://github.com/maelritouet/Azure-VM-Hardening-Lab"> Azure VM Hardening </a>  |
 
 
 # Tech Stack (so far!)
