@@ -42,16 +42,16 @@
 - Python
 - HTML
 - CSS
-- Javascript
+- Javascript ( ongoing )
 - PHP
-- Bash/Shell
+- Bash/Shell ( ongoing )
 ### Network
 - Wireshark
 ### Endpoint
 - Aurora Agent
 ### SIEM
-- Elastic
-- Wazuh
+- Elastic ( ongoing )
+- Wazuh ( ongoing )
 - Azure ( ongoing )
 ### Miscs
 - UNIX
