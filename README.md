@@ -23,7 +23,7 @@
 - English - C1 level ( TOEIC in process )
 - Romanian - B1+/B2            
 - German - B1
-- Spanish ( learning )
+- Chinese ( learning )
 
 
 ## Skills
