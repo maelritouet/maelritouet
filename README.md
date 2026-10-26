@@ -17,6 +17,7 @@
 - Cyber Threat Management by Cisco
 - Introduction to Cybersecurity by Cisco
 - Cyber Threat Intelligence 101 by ArcX
+- AI Business Practitioner by Cisco
 
 ##  Languages
 - French - Native
