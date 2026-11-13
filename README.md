@@ -3,7 +3,7 @@
 Computer engineering student at **ISEN Méditerranée** (Toulon), heading for the **cybersecurity** track.
 I learn by building things end to end, then measuring whether they actually work.
 
-Right now: building **Poly'sen**, a play-money prediction market for ISEN students, and working toward an **AI × security** project (attacking and defending AI agents in an isolated lab).
+Right now: building **Poly'sen**, a Polymarket-like play-money prediction market for ISEN students, and working toward an **AI × security** project (attacking and defending AI agents in an isolated lab).
 
 ---
 
