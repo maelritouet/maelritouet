@@ -1,60 +1,55 @@
- # Hey, I’m Maël 👋  
+# Maël Ritouet
 
-🎓 Currently a student at **ISEN Toulon** (integrated preparatory cycle, CIN) on the engineering path.  
-🔐 Interested in specializing as a **Cybersecurity Engineer** in the future.  
-💻 Passionate about technology, coding, and building projects that challenge me.  
+Computer engineering student at **ISEN Méditerranée** (Toulon), heading for the **cybersecurity** track.
+I learn by building things end to end, then measuring whether they actually work.
 
-## About me
+Right now: building **Poly'sen**, a play-money prediction market for ISEN students, and working toward an **AI × security** project (attacking and defending AI agents in an isolated lab).
 
-🎯 Aspiring engineer with a focus on **cybersecurity** and software development.  
-- 📚 Currently learning fundamentals in **maths, physics, and computer science** through my prepa.  
-- 🔍 Curious about system security, networks, and ethical hacking.  
-- 🌍 Based in **France**, open to collaborations and cool projects.  
+---
+
+## Featured projects
+
+### ♟️ [self-trained-chessbot](https://github.com/maelritouet/self-trained-chessbot) · [play it in your browser](https://maelritouet.github.io/self-trained-chessbot/)
+A small GPT (10.7M / 25.2M params) trained from scratch on 3M Lichess games. It is never told the rules: it learns to write moves one character at a time.
+- **97.7%** legal moves on first try, solves **26%** of puzzles rated under 1000
+- Full pipeline: data streaming → training on a Kaggle T4 → evaluation vs Stockfish → ONNX export → in-browser inference, models on Hugging Face
+- 15 written design decisions, test suite, model card
+
+`PyTorch` `Transformers` `ONNX Runtime Web` `python-chess` `Hugging Face`
+
+### 🌊 [ThermoMaris](https://github.com/maelritouet/thermomaris) · Ocean Hackathon Toulon 2026
+Interactive educational map of marine heatwaves off the French coast, built with a team of 10.
+- Live Copernicus Marine data pipeline + marine-heatwave detection (Hobday method)
+- FastAPI backend, React/TypeScript front with three depth levels (discover / explore / expert)
+
+`Python` `FastAPI` `TypeScript` `React` `Vite`
+
+### 🔐 [Azure VM Hardening Lab](https://github.com/maelritouet/Azure-VM-Hardening-Lab)
+Securing an Ubuntu VM on Azure: SSH key-only access, no root login, UFW, NSG rules restricted to a single IP, all scripted.
+
+`Azure` `Linux` `Bash` `UFW`
+
+### 🎮 [Platformer.C](https://github.com/maelritouet/Platformer.C)
+Medieval-fantasy platformer in C  I owned the physics engine and rendering: coyote time, jump buffering, AABB collisions, bitwise ARGB transparency.
+
+`C` `X11`
+
+---
+
+## Stack
+
+**Languages:** Python · C · TypeScript/JavaScript · Bash · PHP
+**Security:** Elastic SIEM · Wazuh · Wireshark · Azure NSG · Linux hardening
+**ML:** PyTorch · ONNX · Hugging Face · Kaggle
+**Tools:** Git · Linux (Fedora) · Claude Code
 
 ## Certifications
-- Junior Security Analyst Career path by Cisco
-- Blue Team Junior Analyst by Security Blue Tean
-- Cyber Threat Management by Cisco
-- Introduction to Cybersecurity by Cisco
-- Cyber Threat Intelligence 101 by ArcX
-- AI Business Practitioner by Cisco
+Cisco Junior Cybersecurity Analyst path · Cisco Cyber Threat Management · Security Blue Team Junior Analyst · arcX Cyber Threat Intelligence 101
 
-##  Languages
-- French - Native
-- English - C1 level ( TOEIC in process )
-- Romanian - B1+/B2            
-- German - B1
-- Chinese ( learning )
+## Languages
+French (native) · English (C1) · Romanian (B1+) · German (B1) · Chinese (learning)
 
+---
 
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/maelritouet/Detection-Lab">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/maelritouet/Detection-Lab">Detection Lab</a>|
-| Endoint Detection and Response ( EDR )        |  <a href="https://github.com/maelritouet/EDR"> EDR </a>    |
-| Web Development | <a href="https://maelritouet.art"> Photography Website </a>    |
-| Firewall Management |<a href="https://github.com/maelritouet/Azure-VM-Hardening-Lab"> Azure VM Hardening </a>  |
-
-
-# Tech Stack (so far!)
-### Tech Languages 
-- Python
-- HTML
-- CSS
-- Javascript ( ongoing )
-- PHP
-- Bash/Shell ( ongoing )
-### Network
-- Wireshark
-### Endpoint
-- Aurora Agent
-### SIEM
-- Elastic ( ongoing )
-- Wazuh ( ongoing )
-- Azure ( ongoing )
-### Miscs
-- UNIX
-
-⚡ *Fun fact:* When I’m not learning, I practice my photography !
+Outside of code I'm a freelance photographer → [maelritouet.art](https://maelritouet.art)
+[LinkedIn](https://linkedin.com/in/maelritouet)
