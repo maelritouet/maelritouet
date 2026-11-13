@@ -29,10 +29,13 @@ Securing an Ubuntu VM on Azure: SSH key-only access, no root login, UFW, NSG rul
 
 `Azure` `Linux` `Bash` `UFW`
 
-### 🎮 [Platformer.C](https://github.com/maelritouet/Platformer.C)
-Medieval-fantasy platformer in C  I owned the physics engine and rendering: coyote time, jump buffering, AABB collisions, bitwise ARGB transparency.
+### 🎮 [Medieval Fantasy](https://github.com/maelritouet/medieval-fantasy-c)
+A complete 2D platformer written from scratch in C in 10 days: 9 levels, 3 enemy types, 180+ animated sprites, saved best times. There's no game engine, so the physics, collisions, rendering, camera and level loading are all hand-built.
+- Physics that feels good to play: coyote time, jump buffering, double jump, dash, AABB collisions
+- Custom BMP → ARGB sprite loader using bitwise operations to get transparency from a library with no alpha channel
+- Levels drawn as ASCII grids and parsed at load time; raw X11 keyboard reading to get held keys
 
-`C` `X11`
+`C` `OpenGL` `X11` `Make`
 
 ---
 
