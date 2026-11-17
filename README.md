@@ -17,13 +17,6 @@ A small GPT (10.7M / 25.2M params) trained from scratch on 3M Lichess games. It 
 
 `PyTorch` `Transformers` `ONNX Runtime Web` `python-chess` `Hugging Face`
 
-### 🌊 [ThermoMaris](https://github.com/maelritouet/OCEAN-HACKATON) · Ocean Hackathon Toulon 2026
-Interactive educational map of marine heatwaves off the French coast, built with a team of 10.
-- Live Copernicus Marine data pipeline + marine-heatwave detection (Hobday method)
-- FastAPI backend, React/TypeScript front with three depth levels (discover / explore / expert)
-
-`Python` `FastAPI` `TypeScript` `React` `Vite`
-
 ### 🔐 [Azure VM Hardening Lab](https://github.com/maelritouet/Azure-VM-Hardening-Lab)
 Securing an Ubuntu VM on Azure: SSH key-only access, no root login, UFW, NSG rules restricted to a single IP, all scripted.
 
