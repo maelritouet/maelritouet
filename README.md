@@ -35,9 +35,9 @@ A complete 2D platformer written from scratch in C in 10 days: 9 levels, 3 enemy
 ## Stack
 
 **Languages:** Python · C · TypeScript/JavaScript · Bash · PHP
-**Security:** Elastic SIEM · Wazuh · Wireshark · Azure NSG · Linux hardening
+**Security:** Wireshark · Azure NSG · 
 **ML:** PyTorch · ONNX · Hugging Face · Kaggle
-**Tools:** Git · Linux (Fedora) · Claude Code
+**Tools:** Git · Linux (Fedora) · Claude Code · Linux
 
 ## Certifications
 Cisco Junior Cybersecurity Analyst path · Cisco Cyber Threat Management · Security Blue Team Junior Analyst · arcX Cyber Threat Intelligence 101
